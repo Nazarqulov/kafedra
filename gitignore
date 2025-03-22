@@ -1,5 +1,4 @@
 # Django #
-from django.contrib.gis.gdal.prototypes.geom import env_func
 *.log
 *.pot
 *.pyc
@@ -138,4 +137,3 @@ GitHub.sublime-settings
 !.vscode/extensions.json
 .history
 .env
-db.sqlite3
